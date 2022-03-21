@@ -1,5 +1,5 @@
 # portfolio-mockup
- Simple work portfolio template
+ Simple work portfolio template made with flex-box only.
 
 This is a this simple work portfolio template with sections as about me, work experience and a contact form.
 
